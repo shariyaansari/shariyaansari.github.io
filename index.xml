@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Profile</title>
+    <link>https://&lt;YOUR-GITHUB-USERNAME&gt;.github.io/</link>
+    <description>Recent content on My Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Jul 2025 00:39:26 +0530</lastBuildDate>
+    <atom:link href="https://<YOUR-GITHUB-USERNAME>.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career Snapshot</title>
+      <link>https://&lt;YOUR-GITHUB-USERNAME&gt;.github.io/posts/first-post/</link>
+      <pubDate>Sun, 27 Jul 2025 00:39:26 +0530</pubDate>
+      <guid>https://&lt;YOUR-GITHUB-USERNAME&gt;.github.io/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Hi there! I&amp;rsquo;m Shariya Ansari, an enthusiastic Information Technology student based in Mumbai, with a passion for leveraging technology to solve real-world problems — especially those that have social impact.&lt;/p&gt;&#xA;&lt;p&gt;Currently in 3rd year, pursuing my B.E. in Information Technology at Don Bosco Institute of Technology (GPA: 9.2/10), I enjoy exploring the world of web development, data-driven applications, and community-focused tech solutions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;&#xA;&lt;p&gt;I’m passionate about full-stack development, with hands-on experience in React.js, Flask, Python, and SQL.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Career Snapshot</title>
+      <link>https://&lt;YOUR-GITHUB-USERNAME&gt;.github.io/posts/my-projects/</link>
+      <pubDate>Sun, 27 Jul 2025 00:39:26 +0530</pubDate>
+      <guid>https://&lt;YOUR-GITHUB-USERNAME&gt;.github.io/posts/my-projects/</guid>
+      <description>&lt;h1 id=&#34;projects-i-have-worked-on&#34;&gt;Projects I have worked on&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
